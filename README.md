@@ -16,3 +16,7 @@ thread safe queue implementation
 ### threadprint
 
 two threads print numbers in order
+
+### virtual function
+
+function casting under C++ virtual functions
